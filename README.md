@@ -50,5 +50,5 @@ My studio for AI automation and web development projects.
 ## Contact
 
 - Telegram: [@Alphecca1](https://t.me/Alphecca1)
-- LinkedIn: [aleksandr-melay](https://linkedin.com/in/aleksandr-melay)
+- LinkedIn: [aleksandr-melay](https://www.linkedin.com/in/oleksandr-melai-4349b8219/)
 - Email: [sashamelay@gmail.com](mailto:sashamelay@gmail.com)
