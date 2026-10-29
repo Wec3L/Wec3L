@@ -44,7 +44,7 @@ Production-ready n8n workflows: a RAG Telegram bot on Pinecone + OpenAI, a multi
 ### [Stada Kazakhstan — AI Adoption Strategy](https://github.com/Wec3L/Stada-Presentation) · [Live demo](https://stada-presentation.vercel.app)
 Interactive AI adoption strategy presentation for Stada Kazakhstan, built with Next.js, GSAP and Framer Motion.
 
-### [Melay Studio — melaystudio.com](https://github.com/Wec3L/melay-studio-website) · [Live site](https://melaystudio.com)
+### [Melay Studio — melaystudio.com](https://melaystudio.com)
 Source of my studio website for premium websites and cinematic AI films: a video-led single page with a hero film, a draggable AI film gallery and hover-to-play service previews, built with Next.js (vinext), React 19, Tailwind CSS 4 and Cloudflare.
 
 ## Contact
